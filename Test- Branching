@@ -10,3 +10,7 @@ done
 # POWERSHELL
 
 1..10 | % { write "loop $_" }
+
+#Python
+for i in range(1, 11):
+    print(i)
